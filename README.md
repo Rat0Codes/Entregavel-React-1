@@ -53,3 +53,7 @@ O Virtual DOM é uma representação da interface mantida pelo React. Quando oco
 
 
 Desenvolvido como atividade prática de introdução ao React.
+
+## Autor
+
+Rudson
